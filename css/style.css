@@ -16,6 +16,31 @@ background-size: cover;
   border-radius: 24px;
   margin: 48px auto;
 }
+
+p {
+  font-size: 16px;
+  font-family: "Alice",serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 150%;
+}
+
+h2 {
+  font-size: 24px;
+  font-family: "Alice",serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 150%;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: "Alice",serif;
+  font-weight: 400;
+  font-style: normal;
+  display: inline;
+}
+
 /* 48px em cima e baixo, auto nos lados*/
 /* box-sizing border-box é para não deixar passar dos 800px, pois o padrão content-box soma tudo e faz ultrapassar.*/
 
